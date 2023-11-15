@@ -1,0 +1,15 @@
+body{
+    background-color: #292929;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+
+.title{
+    color: white;
+}
+
+.line {
+    background-color: white;
+}
